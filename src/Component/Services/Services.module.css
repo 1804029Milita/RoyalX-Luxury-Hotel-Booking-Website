@@ -1,0 +1,22 @@
+.Services_cards{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap: 30px;
+}
+.Services_cards .Services_card{
+    padding: 40px 30px;
+    border: 1px solid transparent;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: rgba(131,131,131,0.05);
+}
+.Services_cards .Services_card:hover{
+    border-color: #452205;
+}
+.Services_cards .Services_card i{
+    font-size: 32px;
+    color: #df8033;
+
+}
