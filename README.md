@@ -8,7 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
   <h3>SnapShot of the website</h3>
-  <img src="src/assets/home.png" alt="Alt text" width="300" />
+  <img src="src/assets/home.png" alt="Alt text" width="500" height="400px"/>
+  <img src="src/assets/reception.png" alt="Alt text" width="500" height="400px"/>
+  <img src="src/assets/aboutus.png" alt="Alt text" width="500" height="400px"/>
+  <img src="src/assets/footer.png" alt="Alt text" width="500" height="400px"/>
 
   [Watch the demo video](src/assets/video.mp4)
 
