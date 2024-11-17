@@ -6,7 +6,7 @@ function About(){
     return(
         <div className={`${aboutCSS.about_wrapper} section`}>
             <div className={aboutCSS.about_img}>
-                <img src={aboutImg} alt=""/>
+                <img src={aboutImg} alt="about-img"/>
 
             </div>
             <div className={aboutCSS.about_content}>
@@ -16,6 +16,7 @@ function About(){
                 <div className={aboutCSS.Cards}>
                     <p>260+ <span>Awards Wins</span></p>
                     <p>250k+ <span>Visitors Visit</span></p>
+                    <p>50k+ <span>Events</span></p>
                     
                 </div>
             </div>

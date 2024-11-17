@@ -11,7 +11,7 @@
 .Header_slide{
     height: 100%;
     width: 100%;
-    background-image:url(./../../assets/hotel.avif);
+    background-image:url(./../../assets/hotel3.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -46,20 +46,22 @@
 }
 .Header_slide .content small{
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
 }
 .Header_slide .content h2{
     color: #fff;
-    font-size: 40px;
+    font-size: 42px;
 }
 .Header_slide p{
     color: #fff;
     font-size: 18px;
-    font-family: 'Poppins';
+    font-family: 'playfair';
 }
 .Header_slide p span{
     display: block;
     font-weight: 600;
+    color: #fff;
+    font-family: 'Playfair';
    
 }
 
@@ -76,6 +78,13 @@
     
     .Header_slide .content h2{
         font-size: 25px;
+    }
+    .Header_slide .content small{
+        font-size: 14px;
+    }
+    .Header_slide p{
+        font-size: 15px;
+       
     }
     
     

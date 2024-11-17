@@ -27,7 +27,7 @@ function Header(){
                             <small data-swiper-parallax="-200">Luxury Hotel & Restaurant</small>
                             <h2 data-swiper-parallax="-250">Enjoy Your Dream Time with <br></br>
                             Luxury Experience</h2>
-                            <p data-swiper-parallax="-300">Call Now <span>983034094</span></p>
+                            <p data-swiper-parallax="-300">Call Now <span>+0983034094</span></p>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -37,7 +37,7 @@ function Header(){
                             <small data-swiper-parallax="-200">Luxury Hotel & Restaurant</small>
                             <h2 data-swiper-parallax="-200">Enjoy Your Dream Time with <br></br>
                             Luxury Experience</h2>
-                            <p data-swiper-parallax="-200">Call Now <span>983034094</span></p>
+                            <p data-swiper-parallax="-200">Call Now <span>+0983034094</span></p>
                         </div>
                     </div>
                 </SwiperSlide>
@@ -47,7 +47,7 @@ function Header(){
                             <small data-swiper-parallax="-200">Luxury Hotel & Restaurant</small>
                             <h2 data-swiper-parallax="-200">Enjoy Your Dream Time with <br></br>
                             Luxury Experience</h2>
-                            <p data-swiper-parallax="-200">Call Now <span>983034094</span></p>
+                            <p data-swiper-parallax="-200">Call Now <span>+0983034094</span></p>
                         </div>
                     </div>
                 </SwiperSlide>
